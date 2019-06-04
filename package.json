@@ -1,5 +1,5 @@
 {
-  "name": "graphql",
+  "name": "test",
   "version": "1.0.0",
   "description": "server graphql",
   "main": "server.js",
